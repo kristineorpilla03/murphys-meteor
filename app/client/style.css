@@ -26,3 +26,49 @@ body {
   padding-top: 10px;
   padding-bottom: 20px;
 }
+
+#topMenu {
+  background-color: #004030;
+}
+
+.nav-item {
+  color: white;
+}
+
+body {
+  background-image: url("http://courses.ics.hawaii.edu/ics314f22/morea/ui-frameworks/murphys-new-background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+}
+
+
+
+#footerColor {
+  background-color: #004030;
+  color: white;
+}
+
+#words {
+  height: 500px;
+  color: white;
+  font-weight: bold;
+}
+
+.logoHeight {
+  height: 70px;
+  width: auto;
+}
+
+.navbar {
+  background-color: #004030;
+  --bs-nav-link-color: white;
+}
+
+a.nav-link {
+  color: white;
+}
+
+
