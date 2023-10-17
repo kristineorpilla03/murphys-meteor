@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Row, Col } from 'react-bootstrap';
 
 const BottomMenu = () => (
-  <footer className="fixed-bottom" id="footerColor">
+  <footer id="footerColor">
     <Container>
       <Row className="py-3">
         <Col>
